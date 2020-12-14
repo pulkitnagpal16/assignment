@@ -1,0 +1,106 @@
+body{
+    background-color: #fffffe;
+}
+
+.intro{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #2b2c34;   
+}
+
+.image{ 
+    width: 50%;    
+}
+
+.row li{
+    list-style-type: none;
+    display: inline;
+}
+
+.row2 li{
+    list-style-type: none;
+    display: inline;
+}
+
+.row3 li{
+    list-style-type: none;
+    display: inline;
+}
+
+.row4 li{
+    list-style-type: none;
+    display: inline;
+}
+
+.row5 li{
+    list-style-type: none;
+    display: inline;
+}
+
+.keypad button{
+    background-color:#3da9fc;
+    color: #fffffe;
+    border-radius: 50%;
+    width: 5em;
+    height: 5em;
+    font-size: 1em;
+}
+
+.extra{
+    background-color:#fffffe;
+    border: none;
+    width: 5em;
+    height: 5em;
+}
+
+.back{
+    background-color:#3da9fc;
+    color: #fffffe;
+    border-radius: 50%;
+    width: 5em;
+    height: 5em;
+}
+
+.keypad button:hover{
+    color:#3da9fc;
+    background-color:#fffffe;
+}
+
+.back:hover{
+    background-color:#fffffe;
+}
+
+.input{
+    position: absolute;
+    right: 12%;
+    top: 20%;
+}
+
+.row{
+    position: absolute;
+    right: 10%;
+    top: 30%;
+}
+
+.row2{
+    position: absolute;
+    right: 10%;
+    top: 42%;
+}
+
+.row3{
+    position: absolute;
+    right: 10%;
+    top: 54%;
+}
+
+.row4{
+    position: absolute;
+    right: 10%;
+    top: 66%;
+}
+
+.row5{
+    position: absolute;
+    right: 10%;
+    top: 78%;
+}
